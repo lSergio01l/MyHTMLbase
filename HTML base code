@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="#yourLanguage">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="#HereYourNameOrTheNameOfTheAuthor">
+	<meta name="description" content="#Here you can write description about your website, is necessary to people can find easier your website ">
+</head>
+<body>
+<nav>
+</nav>
+<article>
+</article>
+<aside></aside>
+<footer>
+</footer>
+</body>
+</html>
